@@ -1,0 +1,513 @@
+.main-box {
+    width: 1100px;
+    height: 550px;
+    background: rgb(116, 48, 48);
+    
+}
+
+/* o1 number div start here */
+
+.o1 {
+    width: 1100px;
+    height: 100px;
+    background: rgb(84, 84, 145);
+    display: flex;
+
+}
+
+.o6 {
+    width: 200px;
+    height: 100px;
+    background: rgb(47, 19, 73);
+}
+
+.o11 {
+    width: 200px;
+    height: 33px;
+    background: rgb(3, 71, 18);
+}
+
+
+.o12 {
+    width: 200px;
+    height: 33px;
+    background: rgb(104, 20, 66);
+    display: flex;
+}
+
+
+.o14 {
+    width: 100px;
+    height: 33px;
+    background: rgb(170, 18, 18);
+}
+
+
+.o15 {
+    width: 100px;
+    height: 33px;
+    background: rgb(151, 176, 177);
+}
+
+
+.o16 {
+    width: 100px;
+    height: 16px;
+    background: rgb(168, 177, 151);
+}
+
+
+.o17 {
+    width: 100px;
+    height: 17px;
+    background: rgb(148, 21, 131);
+}
+
+
+
+
+.o13 {
+    width: 200px;
+    height: 34px;
+    background: rgb(9, 150, 103);
+}
+
+.o7 {
+    width: 200px;
+    height: 100px;
+    background: rgb(40, 155, 36);
+}
+
+.o8 {
+    width: 200px;
+    height: 100px;
+    background: rgb(199, 168, 31);
+}
+
+.o9 {
+    width: 200px;
+    height: 100px;
+    background: rgb(216, 19, 69);
+}
+
+.o18 {
+    width: 200px;
+    height: 50px;
+    background: rgb(92, 78, 143);
+    display: flex;
+}
+
+.o20 {
+    width: 100px;
+    height: 50px;
+    background: rgb(60, 167, 18);
+}
+
+.o21 {
+    width: 100px;
+    height: 50px;
+    background: rgb(196, 119, 20);
+}
+
+.o22 {
+    width: 100px;
+    height: 25px;
+    background: rgb(22, 7, 46);
+}
+
+.o23 {
+    width: 100px;
+    height: 25px;
+    background: rgb(65, 97, 116);
+    display: flex;
+}
+
+.o24 {
+    width: 33px;
+    height: 25px;
+    background: rgb(107, 28, 42);
+}
+
+.o25 {
+    width: 33px;
+    height: 25px;
+    background: rgb(161, 175, 126);
+}
+
+.o26 {
+    width: 34px;
+    height: 25px;
+    background: rgb(105, 211, 19);
+}
+.o19 {
+    width: 200px;
+    height: 50px;
+    background: rgb(9, 21, 43);
+}
+
+/* o1 number div end here  */
+
+
+/* o2 number div start here  */
+
+.o2 {
+    width: 1100px;
+    height: 100px;
+    background: rgb(85, 146, 66);
+}
+
+/* o2 number div end here */
+
+
+/* o3 number div start here */
+
+.o3 {
+    width: 1100px;
+    height: 100px;
+    background: rgb(184, 18, 32);
+    display: flex;
+}
+
+.o27 {
+    width: 550px;
+    height: 100px;
+    background: rgb(224, 220, 219);
+}
+
+.o29 {
+    width: 550px;
+    height: 50px;
+    background: rgb(25, 10, 236);
+}
+
+.o30 {
+    width: 550px;
+    height: 50px;
+    background: rgb(10, 146, 224);
+    display: flex;
+}
+
+.o31 {
+    width: 150px;
+    height: 50px;
+    background: rgb(10, 80, 1);
+}
+
+.o32 {
+    width: 100px;
+    height: 50px;
+    background: rgb(168, 19, 156);
+}
+
+.o33 {
+    width: 150px;
+    height: 50px;
+    background: rgb(149, 224, 10);
+}
+
+.o34 {
+    width: 150px;
+    height: 50px;
+    background: rgb(214, 7, 204);
+}
+
+.o35 {
+    width: 150px;
+    height: 16px;
+    background: rgb(20, 2, 19);
+}
+
+.o36 {
+    width: 150px;
+    height: 16px;
+    background: rgb(65, 26, 209);
+}
+
+.o37{
+    width: 150px;
+    height: 18px;
+    background: rgb(212, 182, 211);
+}
+
+
+.o28 {
+    width: 550px;
+    height: 100px;
+    background: rgb(163, 72, 19);
+}
+
+.o38 {
+    width: 550px;
+    height: 50px;
+    background: rgb(54, 22, 3);
+    display: flex;
+}
+
+.o40 {
+    width: 70px;
+    height: 50px;
+    background: rgb(0, 0, 0);
+}
+
+.o41 {
+    width: 70px;
+    height: 50px;
+    background: rgb(86, 20, 209);
+}
+
+.o42 {
+    width: 70px;
+    height: 50px;
+    background: rgb(12, 172, 65);
+}
+
+.o43 {
+    width: 70px;
+    height: 50px;
+    background: rgb(204, 161, 20);
+}
+
+.o48 {
+    width: 70px;
+    height: 25px;
+    background: rgb(20, 204, 20);
+    display: flex;
+}
+
+.o50 {
+    width: 35px;
+    height: 25px;
+    background: rgb(204, 176, 20);
+}
+
+.o51 {
+    width: 35px;
+    height: 25px;
+    background: rgb(63, 36, 4);
+}
+
+.o49 {
+    width: 70px;
+    height: 25px;
+    background: rgb(12, 94, 126);
+}
+
+.o44 {
+    width: 70px;
+    height: 50px;
+    background: rgb(75, 115, 141);
+}
+
+.o45 {
+    width: 70px;
+    height: 50px;
+    background: rgb(46, 39, 34);
+    
+}
+
+.o52 {
+    width: 70px;
+    height: 25px;
+    background: rgb(245, 112, 16);
+}
+
+.o53 {
+    width: 70px;
+    height: 25px;
+    background: rgb(147, 14, 199);
+    display: flex;
+}
+
+.o53 {
+    width: 35px;
+    height: 25px;
+    background: rgb(36, 199, 14);
+    
+}
+
+.o53 {
+    width: 35px;
+    height: 25px;
+    background: rgb(202, 211, 207);
+    
+}
+
+.o46 {
+    width: 70px;
+    height: 50px;
+    background: rgb(41, 6, 197);
+}
+
+.o47 {
+    width: 70px;
+    height: 50px;
+    background: rgb(167, 15, 53);
+}
+
+.o39 {
+    width: 550px;
+    height: 50px;
+    background: rgb(12, 82, 43);
+}
+
+.o4 {
+    width: 1100px;
+    height: 100px;
+    background: rgb(211, 136, 51);
+}
+
+.o5 {
+    width: 1100px;
+    height: 150px;
+    background: rgb(34, 51, 207);
+    display: flex;
+}
+
+.o56 {
+    width: 275px;
+    height: 150px;
+    background: rgb(122, 218, 13);
+}
+
+.o57 {
+    width: 275px;
+    height: 150px;
+    background: rgb(56, 60, 95);
+}
+
+.o60 {
+    width: 275px;
+    height: 50px;
+    background: rgb(7, 28, 219);
+}
+
+.o61 {
+    width: 275px;
+    height: 50px;
+    background: rgb(231, 9, 213);
+    display: flex;
+}
+.o63 {
+    width: 68px;
+    height: 50px;
+    background: rgb(15, 4, 14);
+}
+.o64 {
+    width: 68px;
+    height: 50px;
+    background: rgb(5, 127, 209);
+}
+.o65 {
+    width: 70px;
+    height: 50px;
+    background: rgb(146, 231, 9);
+}
+.o66 {
+    width: 70px;
+    height: 16px;
+    background: rgb(33, 12, 129);
+}
+.o67 {
+    width: 70px;
+    height: 16px;
+    background: rgb(10, 130, 146);
+}
+.o68 {
+    width: 70px;
+    height: 18px;
+    background: rgb(231, 53, 9);
+}
+
+.o62 {
+    width: 275px;
+    height: 50px;
+    background: rgb(33, 218, 9);
+}
+
+.o58 {
+    width: 275px;
+    height: 150px;
+    background: rgb(124, 14, 82);
+}
+
+.o59 {
+    width: 275px;
+    height: 150px;
+    background: rgb(216, 17, 10);
+}
+
+.o69 {
+    width: 275px;
+    height: 75px;
+    background: rgb(10, 216, 20);
+    display: flex;
+}
+.o71 {
+    width: 137px;
+    height: 75px;
+    background: rgb(216, 127, 10);
+}
+
+.o73 {
+    width: 137px;
+    height: 36px;
+    background: rgb(106, 63, 207);
+}
+.o74 {
+    width: 137px;
+    height: 39px;
+    background: rgb(182, 35, 138);
+    display: flex;
+}
+.o75 {
+    width: 68.5px;
+    height: 39px;
+    background: rgb(43, 104, 38);
+}
+.o76 {
+    width: 68.5px;
+    height: 39px;
+    background: rgb(54, 83, 88);
+}
+
+.o72 {
+    width: 138px;
+    height: 75px;
+    background: rgb(77, 78, 77);
+}
+
+.o70 {
+    width: 275px;
+    height: 75px;
+    background: rgb(89, 10, 216);
+    display: flex;
+}
+
+.o77 {
+    width: 145px;
+    height: 75px;
+    background: rgb(216, 127, 10);
+}
+
+.o78 {
+    width: 131px;
+    height: 75px;
+    background: rgb(78, 33, 71);
+}
+
+.o79 {
+    width: 131px;
+    height: 37px;
+    background: rgb(22, 138, 138);
+}
+
+.o80 {
+    width: 131px;
+    height: 38px;
+    background: rgb(44, 151, 11);
+}
+
+
+
+
+
